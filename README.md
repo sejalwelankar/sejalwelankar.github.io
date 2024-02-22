@@ -1,2 +1,2 @@
 # sejalwelankar.github.io
-Website portfolio for DTC 201 
+Website portfolio for DTC 206 
